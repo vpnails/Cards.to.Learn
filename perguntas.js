@@ -1,5 +1,5 @@
 criaCartao(
-    'Matematica,
+    'Matematica',
     'quanto e 6x7?',
     '42'
 )
